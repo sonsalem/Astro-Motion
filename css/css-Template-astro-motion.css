@@ -108,7 +108,7 @@ video {
 }
 @media (min-width:992px) {
     .carousel .shuffle > .owl-stage-outer {
-        max-height: 90vh;
+        max-height: 100vh;
     }
 }
 .carousel .shuffle > .owl-dots {
