@@ -215,4 +215,9 @@ video {
     font-weight: 100;
     font-size: 18px;
 }
+@media (max-width: 767px) {
+    .contact .text {
+        order: -1;
+    }
+}
 /* Carousel */
